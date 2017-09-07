@@ -1,1 +1,1 @@
-front-boiler
+# React.js + Babel + Webpack Boilerplate
